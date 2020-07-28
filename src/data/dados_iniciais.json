@@ -1,0 +1,172 @@
+{
+  "categorias": [
+    {
+      "titulo":"Filmes",
+      "link":"",
+      "cor":"",
+      "link_extra": {
+        "text":"",
+        "url":""
+      },
+      "videos": [
+        {
+          "titulo":"O Castelo Animado",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=1lnwHocc8Wc&feature=youtu.be",
+          "banner":"https://historiasdeumotaku.files.wordpress.com/2016/07/o-castelo-animado-2.jpg"
+        },
+        {
+          "titulo":"Heathers",
+          "descricao":"Veronica Sawyer é uma jovem que convive com três patricinhas chamadas Heather, que têm por função única na vida serem adoradas. O comportamento delas e dos amigos que as cercam é tão pedante que Veronica sente vontade de matá-las. Após começar a namorar Jason Dean, as mortes se tornam realidade, de uma forma a parecer sempre que foram suicídio.",
+          "url":"https://www.youtube.com/watch?v=sS_7RqSkc78&feature=youtu.be",
+          "banner":"https://secureservercdn.net/45.40.148.147/f26.bf7.myftpupload.com/wp-content/uploads/2016/03/Heathers.png?time=1589496011"
+        }
+      ]
+    },
+    {
+      "titulo":"Comédia e Entretenimento",
+      "link":"",
+      "cor":"",
+      "link_extra": {
+        "text":"",
+        "url":""
+      },
+      "videos": [
+        {
+          "titulo":"JORNAL NÃO PODE RIR com Marcos Castro, Luciana D'Aulizio, Diogo Defante e Estevam Nabote",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=jeu9kKNHO7s",
+          "banner":""
+        },
+        {
+          "titulo":"NÃO PODE RIR! com BARBIXAS - a TRILOGIA! Anderson Bizzocchi, Daniel Nascimento e Elidio Sanna",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=mh2irXWks48",
+          "banner":""
+        },
+          {
+            "titulo":"THAT'S CRINGE: Epic Morning Routine",
+            "descricao":"",
+            "url":"https://www.youtube.com/watch?v=z0X0gyANnKI",
+            "banner":""
+          }
+      ]
+    },
+    {
+      "titulo":"Cinema",
+      "link":"",
+      "cor":"",
+      "link_extra": {
+        "text":"",
+        "url":""
+      },
+      "videos": [
+        {
+          "titulo":"As 10 Melhores Teorias de Dark",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=rgRzZK7rK4w",
+          "banner":""
+        },
+        {
+          "titulo":"POR QUE MIKKEL NÃO VOLTOU PRA CASA? | TEORIA DARK 3 TEMPORADA | NETFLIX",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=5gLe7SuKdDU",
+          "banner":""
+        },
+        {
+          "titulo":"TOP 10 MELHORES SÉRIES DE 2020! (até agora)",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=nGt1VcmCoVc",
+          "banner":""
+        }
+      ]
+    },
+    {
+      "titulo":"Artes",
+      "link":"",
+      "cor":"",
+      "link_extra": {
+        "text":"",
+        "url":""
+      },
+      "videos": [
+        {
+          "titulo":"7 IDEIAS INCRÍVEIS para DESENHAR",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=Wr1XahJJenc",
+          "banner":""
+        },
+        {
+          "titulo":"DISNEY ARTIST FOLLOWS A BOB ROSS TUTORIAL (PHOTOSHOP)",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=XAHHUWY-Jxg&feature=youtu.be",
+          "banner":""
+        },
+        {
+          "titulo":"[MediBang] Dicas e Truques Iniciais: TUTORIAL SIMPLES",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=gWz8EPHgAlg",
+          "banner":""
+        }
+      ]
+    },
+    {
+      "titulo":"Estudos",
+      "link":"",
+      "cor":"",
+      "link_extra": {
+        "text":"",
+        "url":""
+      },
+      "videos": [
+        {
+          "titulo":"REVISÃO ENEM | BIOLOGIA: PROBLEMAS AMBIENTAIS | ESQUENTA ENEM | DESCOMPLICA",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=t4R7GDjB7Fw",
+          "banner":""
+        },
+        {
+          "titulo":"MATEMÁTICA BÁSICA | Aula para o Enem",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=DUqlHfbZKUE",
+          "banner":""
+        },
+        {
+          "titulo":"Como ter motivação para estudar | PLANTÃO",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=vcYaE6PsSMQ",
+          "banner":""
+        }
+      ]
+    },
+    {
+      "titulo":"Psicologia",
+      "link":"",
+      "cor":"",
+      "link_extra": {
+        "text":"",
+        "url":""
+      },
+      "videos": [
+        {
+          "titulo":"Por Que Sua Vida Não Vai Mudar? | PEDRO CALABREZ | NeuroVox 052",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=3ecVRlzc0H0",
+          "banner":""
+        },
+        {
+          "titulo":"A Mente do Coringa | PEDRO CALABREZ | NeuroVox 048",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=D3XQCA2G3Io",
+          "banner":""
+        },
+        {
+          "titulo":"A Dor do Coração Partido | PEDRO CALABREZ | NeuroVox 003",
+          "descricao":"",
+          "url":"https://www.youtube.com/watch?v=rp-ljQw_1Xw",
+          "banner":""
+        }
+      ]
+    }
+  ]  
+}
