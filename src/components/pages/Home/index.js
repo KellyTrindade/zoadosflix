@@ -6,15 +6,18 @@ import Carousel from '../../Carousel'
 import Footer from '../../Footer'
 
 function Home() {
+  let categoria = Math.floor( ( Math.random() * dadosIniciais.categorias.length ) )
+  let video = Math.floor( ( Math.random() * dadosIniciais.categorias[categoria].videos.length ) )
+
   return (
     <div style={ {background: "#141414"} }>
       <Menu />
 
         <BannerMain 
-          videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
-          url={dadosIniciais.categorias[0].videos[0].url}
-          videoDescription={dadosIniciais.categorias[0].videos[0].descricao}
-          banner={dadosIniciais.categorias[0].videos[0].banner}
+          videoTitle={dadosIniciais.categorias[categoria].videos[video].titulo}
+          url={dadosIniciais.categorias[categoria].videos[video].url}
+          videoDescription={dadosIniciais.categorias[categoria].videos[video].descricao}
+          banner={dadosIniciais.categorias[categoria].videos[video].banner}
         />
 
         <Carousel 
